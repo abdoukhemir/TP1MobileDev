@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mytext">Welcome to my First Android AApplication</string>
+    <string name="SignInButton">Sign IN</string>
+    <string name="UpdateInButton">Update Date and Time</string>
+    <string name="LoginView">Login</string>
+    <string name="PasswordView">Password</string>
+    <string name="login_success">success</string>
+    <string name="login_failed">failed</string>
+    <string name="ToolBarText">TP1_2024</string>
+    <string name="message1">   what type of calculation do you want to perform ?   </string>
+    <string name="Sum">Sum</string>
+    <string name="Square">Square</string>
+
+
+
+
+
+</resources>
